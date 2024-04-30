@@ -24,9 +24,15 @@
 //     console.log('This value is odd number ');
 // }
 
+// Q3ESTION: 3
 
-
-
+var num = + prompt (enter your age);
+if(num <= 18  ){
+    console.log('your age is old enough  ')
+}
+else{
+    console.log(' your age is Too young');
+}
 
 
 
