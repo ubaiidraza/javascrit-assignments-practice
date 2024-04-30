@@ -13,3 +13,30 @@
 // }
 
 
+
+// QUESTION: 2
+
+// var num = + prompt ();
+// if(num <= 2  ){
+//     console.log('This value is even number ')
+// }
+// else{
+//     console.log('This value is odd number ');
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
