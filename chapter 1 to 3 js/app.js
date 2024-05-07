@@ -20,7 +20,7 @@
 
 // ==== Chapter 02 Q 1 2 3 4  ====
 // var userName = 'ubaid'
-// var age = '16 years old';
+// var age = '18 years old';
 // var info = 'Certified Web and app development';
 
 // alert(userName);
